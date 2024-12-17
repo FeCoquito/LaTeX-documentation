@@ -1,0 +1,2208 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{abnt15220}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0f35535355fa229d21c112431aaa8b0}{%
+           family={{ABNT NBR 15220-2}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{fullhash}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{fullhashraw}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{bibnamehash}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{authorbibnamehash}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{authornamehash}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{authorfullhash}{d0f35535355fa229d21c112431aaa8b0}
+      \strng{authorfullhashraw}{d0f35535355fa229d21c112431aaa8b0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Desempenho t\'{e}rmico de edifica\c{c}\~{o}es Parte 2: M\'{e}todos de c\'{a}lculo da transmit\^{a}ncia t\'{e}rmica, da capacidade t\'{e}rmica, do atraso t\'{e}rmico e do fator solar de elementos e componentes de edifica\c{c}\~{o}es}
+      \field{title}{15220-2.(2003)}
+      \field{year}{2003}
+    \endentry
+    \entry{abnt216401}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9891257f46885bf9533855f0170ced82}{%
+           family={{ABNT NBR 16401-2}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9891257f46885bf9533855f0170ced82}
+      \strng{fullhash}{9891257f46885bf9533855f0170ced82}
+      \strng{fullhashraw}{9891257f46885bf9533855f0170ced82}
+      \strng{bibnamehash}{9891257f46885bf9533855f0170ced82}
+      \strng{authorbibnamehash}{9891257f46885bf9533855f0170ced82}
+      \strng{authornamehash}{9891257f46885bf9533855f0170ced82}
+      \strng{authorfullhash}{9891257f46885bf9533855f0170ced82}
+      \strng{authorfullhashraw}{9891257f46885bf9533855f0170ced82}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instala\c{c}\~{o}es de ar-condicionado--sistemas centrais e unit\'{a}rios, parte 2: Par\^{a}metros de conforto t\'{e}rmico}
+      \field{title}{NBR 16401-2.(2008)}
+      \field{year}{2008}
+    \endentry
+    \entry{abnt16655}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31abb3ad4c76b7858ca064844783fed2}{%
+           family={{ABNT NBR 16655-3}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{fullhash}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{fullhashraw}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{bibnamehash}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{authorbibnamehash}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{authornamehash}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{authorfullhash}{31abb3ad4c76b7858ca064844783fed2}
+      \strng{authorfullhashraw}{31abb3ad4c76b7858ca064844783fed2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instala\c{c}\~{o}es de sistemas residenciais de ar-condicionado-\textit{Split} e compacto Parte 3: M\'{e}todo de c\'{a}lculo da carga t\'{e}rmica residencial}
+      \field{title}{16655-3.(2018)}
+      \field{year}{2018}
+    \endentry
+    \entry{abnt17037}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80940963aaa4ce440c0218d4e33fac56}{%
+           family={{ABNT NBR 17037-2}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{fullhash}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{fullhashraw}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{bibnamehash}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{authorbibnamehash}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{authornamehash}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{authorfullhash}{80940963aaa4ce440c0218d4e33fac56}
+      \strng{authorfullhashraw}{80940963aaa4ce440c0218d4e33fac56}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Qualidade do ar interior em ambientes n\~{a}o residenciais climatizados artificialmente - Padr\~{o}es referenciais}
+      \field{title}{NBR 17037-2.(2024)}
+      \field{year}{2024}
+    \endentry
+    \entry{Adafruit_BMP280}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15a4fbe287b7987574ac59b2f938ddeb}{%
+           family={Adafruit},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{fullhash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{fullhashraw}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{bibnamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorbibnamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authornamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorfullhash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorfullhashraw}{15a4fbe287b7987574ac59b2f938ddeb}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 10 mar. 2024}
+      \field{title}{Adafruit BMP280 Library}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/reference/en/libraries/adafruit-bmp280-library/
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/reference/en/libraries/adafruit-bmp280-library/
+      \endverb
+    \endentry
+    \entry{Adafruit_SCD30}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15a4fbe287b7987574ac59b2f938ddeb}{%
+           family={Adafruit},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{fullhash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{fullhashraw}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{bibnamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorbibnamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authornamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorfullhash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorfullhashraw}{15a4fbe287b7987574ac59b2f938ddeb}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 09 mar. 2024}
+      \field{title}{Adafruit SCD30}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/reference/en/libraries/adafruit-scd30/
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/reference/en/libraries/adafruit-scd30/
+      \endverb
+    \endentry
+    \entry{anvisar9}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c831de7ff4e042ac4c613bfbe93e8c00}{%
+           family={ANVISA},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{fullhash}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{fullhashraw}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{bibnamehash}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{authorbibnamehash}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{authornamehash}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{authorfullhash}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \strng{authorfullhashraw}{c831de7ff4e042ac4c613bfbe93e8c00}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 3 nov. 2024}
+      \field{title}{Padr\~{o}es Referenciais de Qualidade do Ar Interior em Ambientes Climatizados Artificialmente de Uso P\'{u}blico e Coletivo}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://antigo.anvisa.gov.br/documents/10181/2718376/RE_09_2003_.pdf/8ccafc91-1437-4695-8e3a-2a97deca4e10
+      \endverb
+      \verb{url}
+      \verb https://antigo.anvisa.gov.br/documents/10181/2718376/RE_09_2003_.pdf/8ccafc91-1437-4695-8e3a-2a97deca4e10
+      \endverb
+    \endentry
+    \entry{ArdMicroSD}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={{Arduino}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhashraw}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhashraw}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 20 set. 2024}
+      \field{title}{SD Library for Arduino}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/reference/en/libraries/sd/
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/reference/en/libraries/sd/
+      \endverb
+    \endentry
+    \entry{UNO}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f386a459e186e3086aba926ddb0a99d2}{%
+           family={{Arduino Documentation}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{fullhash}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{fullhashraw}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{bibnamehash}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{authorbibnamehash}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{authornamehash}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{authorfullhash}{f386a459e186e3086aba926ddb0a99d2}
+      \strng{authorfullhashraw}{f386a459e186e3086aba926ddb0a99d2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 26 abr. 2024}
+      \field{title}{Nano Datasheet}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://docs.arduino.cc/hardware/nano/
+      \endverb
+      \verb{url}
+      \verb https://docs.arduino.cc/hardware/nano/
+      \endverb
+    \endentry
+    \entry{handbook2006american}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff59a39c35d338716622a3794fd3101}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Refrigeration and Air Conditioning}
+      \field{title}{American Society of Heating}
+      \field{year}{2006}
+    \endentry
+    \entry{ASHRAE2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff59a39c35d338716622a3794fd3101}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Handbook: Fundamentals}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{American Society of Heating, Refrigeration and Air-Conditioning Engineers.}
+      \field{year}{2009}
+    \endentry
+    \entry{ashrae2013ashrae}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff59a39c35d338716622a3794fd3101}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Atlanta, GA: ASHRAE}
+      \field{title}{ASHRAE 90.1--2013 (SI) Standard 90.1--2013 (SI Edition)---Energy Standard for Buildings Except Low-Rise Residential Buildings}
+      \field{year}{2013}
+    \endentry
+    \entry{handbook2017ashrae}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff59a39c35d338716622a3794fd3101}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{extraname}{4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ASHRAE Fundamentals Handbook}
+      \field{year}{2017}
+    \endentry
+    \entry{ashrae2001}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff59a39c35d338716622a3794fd3101}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{extraname}{5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ASHRAE Journal}
+      \field{title}{Demand Control Ventilation Using CO2}
+      \field{year}{2001}
+    \endentry
+    \entry{ashrae2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff59a39c35d338716622a3794fd3101}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{extraname}{6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Standard 62.1 - Ventilation for Acceptable Indoor Air Quality}
+      \field{year}{2016}
+    \endentry
+    \entry{ashrae2005ashrae}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=72958dfd516c2953b76212e0a35d521e}{%
+           family={ASHRAE},
+           familyi={A\bibinitperiod},
+           given={ASC},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{72958dfd516c2953b76212e0a35d521e}
+      \strng{fullhash}{72958dfd516c2953b76212e0a35d521e}
+      \strng{fullhashraw}{72958dfd516c2953b76212e0a35d521e}
+      \strng{bibnamehash}{72958dfd516c2953b76212e0a35d521e}
+      \strng{authorbibnamehash}{72958dfd516c2953b76212e0a35d521e}
+      \strng{authornamehash}{72958dfd516c2953b76212e0a35d521e}
+      \strng{authorfullhash}{72958dfd516c2953b76212e0a35d521e}
+      \strng{authorfullhashraw}{72958dfd516c2953b76212e0a35d521e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Society of Heating, Refrigerating \& Air Conditioning}
+      \field{title}{ASHRAE handbook-fundamentals (SI)}
+      \field{year}{2005}
+    \endentry
+    \entry{astmD6245}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc09365a5b595844b2fb72fc97cb7ae7}{%
+           family={ASTM},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{fullhash}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{fullhashraw}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{bibnamehash}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{authorbibnamehash}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{authornamehash}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{authorfullhash}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \strng{authorfullhashraw}{bc09365a5b595844b2fb72fc97cb7ae7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Standard Guide on the Relationship of Indoor Carbon Dioxide Concentrations to Indoor Air Quality and Ventilation - D6245 \textminus{} 24}
+      \field{year}{2024}
+    \endentry
+    \entry{aastrand2003textbook}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=123d9c9cee3123606633bfebd459e3be}{%
+           family={{\r{A}}strand},
+           familyi={\r{A}\bibinitperiod},
+           given={Per-Olof},
+           giveni={P\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Human kinetics}%
+      }
+      \strng{namehash}{123d9c9cee3123606633bfebd459e3be}
+      \strng{fullhash}{123d9c9cee3123606633bfebd459e3be}
+      \strng{fullhashraw}{123d9c9cee3123606633bfebd459e3be}
+      \strng{bibnamehash}{123d9c9cee3123606633bfebd459e3be}
+      \strng{authorbibnamehash}{123d9c9cee3123606633bfebd459e3be}
+      \strng{authornamehash}{123d9c9cee3123606633bfebd459e3be}
+      \strng{authorfullhash}{123d9c9cee3123606633bfebd459e3be}
+      \strng{authorfullhashraw}{123d9c9cee3123606633bfebd459e3be}
+      \field{sortinit}{\r{A}}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Textbook of work physiology: physiological bases of exercise}
+      \field{year}{2003}
+    \endentry
+    \entry{imgpiezo}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c63fdb54bb0e56b3175e317070199b08}{%
+           family={{AVNET abacus}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{fullhash}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{fullhashraw}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{bibnamehash}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{authorbibnamehash}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{authornamehash}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{authorfullhash}{c63fdb54bb0e56b3175e317070199b08}
+      \strng{authorfullhashraw}{c63fdb54bb0e56b3175e317070199b08}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 07 mai. 2024}
+      \field{title}{Piezoresistive pressure sensors}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://my.avnet.com/abacus/solutions/technologies/sensors/pressure-sensors/core-technologies/piezoresistive-strain-gauge/
+      \endverb
+      \verb{url}
+      \verb https://my.avnet.com/abacus/solutions/technologies/sensors/pressure-sensors/core-technologies/piezoresistive-strain-gauge/
+      \endverb
+    \endentry
+    \entry{azer1982design}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3e2c453fd2bdaf298f4b262b3d359c9}{%
+           family={Azer},
+           familyi={A\bibinitperiod},
+           given={NZ},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Kansas State Univ., Manhattan, KS}%
+      }
+      \strng{namehash}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{fullhash}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{fullhashraw}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{bibnamehash}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{authorbibnamehash}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{authornamehash}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{authorfullhash}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \strng{authorfullhashraw}{e3e2c453fd2bdaf298f4b262b3d359c9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ASHRAE Trans.;(United States)}
+      \field{number}{CONF-820112-}
+      \field{title}{Design guidelines for spot cooling systems: Part 1. assessing the acceptability of the environment}
+      \field{volume}{88}
+      \field{year}{1982}
+    \endentry
+    \entry{barnett1994outliers}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebd3361db0d2ddfc1ac59a65130dfc08}{%
+           family={Barnett},
+           familyi={B\bibinitperiod},
+           given={Vic},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=116d87215290e86133535b43bad67426}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Toby},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons Chichester, West Sussex}%
+      }
+      \strng{namehash}{59f6476d850e334932d884a7f5d08614}
+      \strng{fullhash}{59f6476d850e334932d884a7f5d08614}
+      \strng{fullhashraw}{59f6476d850e334932d884a7f5d08614}
+      \strng{bibnamehash}{59f6476d850e334932d884a7f5d08614}
+      \strng{authorbibnamehash}{59f6476d850e334932d884a7f5d08614}
+      \strng{authornamehash}{59f6476d850e334932d884a7f5d08614}
+      \strng{authorfullhash}{59f6476d850e334932d884a7f5d08614}
+      \strng{authorfullhashraw}{59f6476d850e334932d884a7f5d08614}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Outliers in statistical data}
+      \field{year}{1994}
+    \endentry
+    \entry{berglund1977evaporation}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1a20cb23e775aba9180a122bc1b56313}{%
+           family={Berglund},
+           familyi={B\bibinitperiod},
+           given={LARRY\bibnamedelima G},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a70f04fc17887b63e750a3406b05ae1}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Richard\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{fullhash}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{fullhashraw}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{bibnamehash}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{authorbibnamehash}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{authornamehash}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{authorfullhash}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \strng{authorfullhashraw}{a796cf6ce8f4831c4d22dde7c8dbb860}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physiology}
+      \field{number}{5}
+      \field{title}{Evaporation of sweat from sedentary man in humid environments}
+      \field{volume}{42}
+      \field{year}{1977}
+      \field{pages}{767\bibrangedash 772}
+      \range{pages}{6}
+    \endentry
+    \entry{bisi2009estrategias}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7a97ce0d94a322ef531abd50bb53852}{%
+           family={Bisi},
+           familyi={B\bibinitperiod},
+           given={Thiago\bibnamedelima Canez},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{fullhash}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{fullhashraw}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{bibnamehash}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{authorbibnamehash}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{authornamehash}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{authorfullhash}{a7a97ce0d94a322ef531abd50bb53852}
+      \strng{authorfullhashraw}{a7a97ce0d94a322ef531abd50bb53852}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estrat\'{e}gias operacional para o mercado de a\c{c}\~{o}es: m\'{e}dia m\'{o}vel de 09 per\'{\i}odos}
+      \field{year}{2009}
+    \endentry
+    \entry{BMP280}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d2691bddb971d727ae403cee120362a3}{%
+           family={{Bosch Sensortec}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{fullhash}{d2691bddb971d727ae403cee120362a3}
+      \strng{fullhashraw}{d2691bddb971d727ae403cee120362a3}
+      \strng{bibnamehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authorbibnamehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authornamehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authorfullhash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authorfullhashraw}{d2691bddb971d727ae403cee120362a3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 07 mai. 2024}
+      \field{title}{Data sheet BMP280 Digital Pressure Sensor}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf
+      \endverb
+    \endentry
+    \entry{Arduino-Temperature-Control-Library}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1975d7aa0d94a0b30ebd9458ae18340f}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Miles},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{fullhash}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{fullhashraw}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{bibnamehash}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{authorbibnamehash}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{authornamehash}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{authorfullhash}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \strng{authorfullhashraw}{1975d7aa0d94a0b30ebd9458ae18340f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 09 mar. 2024}
+      \field{title}{DallasTemperature}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/reference/en/libraries/dallastemperature/
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/reference/en/libraries/dallastemperature/
+      \endverb
+    \endentry
+    \entry{casellisimulaccao}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=52b50204716b7a317a7a4852284af8dc}{%
+           family={Caselli},
+           familyi={C\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28231f12b6bd3d1fc3bbaa7e66369919}{%
+           family={Neto},
+           familyi={N\bibinitperiod},
+           given={Cyro\bibnamedelima Albuquerque},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22199a62646fc3457c764b33ddba895f}
+      \strng{fullhash}{22199a62646fc3457c764b33ddba895f}
+      \strng{fullhashraw}{22199a62646fc3457c764b33ddba895f}
+      \strng{bibnamehash}{22199a62646fc3457c764b33ddba895f}
+      \strng{authorbibnamehash}{22199a62646fc3457c764b33ddba895f}
+      \strng{authornamehash}{22199a62646fc3457c764b33ddba895f}
+      \strng{authorfullhash}{22199a62646fc3457c764b33ddba895f}
+      \strng{authorfullhashraw}{22199a62646fc3457c764b33ddba895f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SIMULA\c{C}\~{A}O DO SISTEMA TERMORREGULADOR DO CORPO HUMANO NO TREM/METR\^{O}}
+      \field{year}{2023}
+    \endentry
+    \entry{cengel1998heat}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7393c064ff2624f0f01cf6b2b0759040}{%
+           family={Cengel},
+           familyi={C\bibinitperiod},
+           given={Yunus\bibnamedelima A},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{fullhash}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{fullhashraw}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{bibnamehash}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{authorbibnamehash}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{authornamehash}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{authorfullhash}{7393c064ff2624f0f01cf6b2b0759040}
+      \strng{authorfullhashraw}{7393c064ff2624f0f01cf6b2b0759040}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{(No Title)}
+      \field{title}{Heat transfer: a practical approach}
+      \field{year}{1998}
+    \endentry
+    \entry{ccengel2008heat}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79f385d6d0c865582b06bd4aa78febd4}{%
+           family={\c{C}engel},
+           familyi={\c{C}\bibinitperiod},
+           given={YA},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mc Graw Hill}%
+      }
+      \strng{namehash}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{fullhash}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{fullhashraw}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{bibnamehash}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{authorbibnamehash}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{authornamehash}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{authorfullhash}{79f385d6d0c865582b06bd4aa78febd4}
+      \strng{authorfullhashraw}{79f385d6d0c865582b06bd4aa78febd4}
+      \field{sortinit}{\c{C}}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heat Transfer. Thermodynamics and Heat Transfer Second Editions. sl}
+      \field{year}{2008}
+    \endentry
+    \entry{chubb2012use}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b0c91cbe185522abe19bc6a3f2cca1ba}{%
+           family={Chubb},
+           familyi={C\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2edf77cd98f9fb711e413609a0b0671}{%
+           family={Simpson},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Medknow}%
+      }
+      \strng{namehash}{a906891b849e4fec45f1a78a3286215c}
+      \strng{fullhash}{a906891b849e4fec45f1a78a3286215c}
+      \strng{fullhashraw}{a906891b849e4fec45f1a78a3286215c}
+      \strng{bibnamehash}{a906891b849e4fec45f1a78a3286215c}
+      \strng{authorbibnamehash}{a906891b849e4fec45f1a78a3286215c}
+      \strng{authornamehash}{a906891b849e4fec45f1a78a3286215c}
+      \strng{authorfullhash}{a906891b849e4fec45f1a78a3286215c}
+      \strng{authorfullhashraw}{a906891b849e4fec45f1a78a3286215c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of pediatric cardiology}
+      \field{number}{2}
+      \field{title}{The use of Z-scores in paediatric cardiology}
+      \field{volume}{5}
+      \field{year}{2012}
+      \field{pages}{179\bibrangedash 184}
+      \range{pages}{6}
+    \endentry
+    \entry{ClosedCubeHDC1080}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50bfe49910ccc947f0139ac76e82d2ac}{%
+           family={ClosedCube},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{fullhash}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{fullhashraw}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{bibnamehash}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{authorbibnamehash}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{authornamehash}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{authorfullhash}{50bfe49910ccc947f0139ac76e82d2ac}
+      \strng{authorfullhashraw}{50bfe49910ccc947f0139ac76e82d2ac}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 09 mar. 2024}
+      \field{title}{ClosedCube HDC1080}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/reference/en/libraries/closedcube-hdc1080/
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/reference/en/libraries/closedcube-hdc1080/
+      \endverb
+    \endentry
+    \entry{cnt}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae4602ef189fed9e5129f0e2418b9c9a}{%
+           family={{CNT}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{fullhash}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{fullhashraw}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{bibnamehash}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{authorbibnamehash}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{authornamehash}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{authorfullhash}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \strng{authorfullhashraw}{ae4602ef189fed9e5129f0e2418b9c9a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 04 out. 2024}
+      \field{title}{Metr\^{o} e trem s\~{a}o os meios de transporte coletivo que mais cresceram em SP}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://cnt.org.br/agencia-cnt/metro-trem-meios-mais-cresceram-sao-paulo
+      \endverb
+      \verb{url}
+      \verb https://cnt.org.br/agencia-cnt/metro-trem-meios-mais-cresceram-sao-paulo
+      \endverb
+    \endentry
+    \entry{curtis2016mystery}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=464b95caac31a903917fde97de5ebe62}{%
+           family={Curtis},
+           familyi={C\bibinitperiod},
+           given={Alexander\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c712b68bb8764328283de6fe6f302e0}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Tanya\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e4368486dcf31ec4a5bb3a6f6833a32}{%
+           family={Ziganshin},
+           familyi={Z\bibinitperiod},
+           given={Bulat\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e76db930818f38ed069740ace29b250a}{%
+           family={Elefteriades},
+           familyi={E\bibinitperiod},
+           given={John\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Thieme Medical Publishers}%
+      }
+      \strng{namehash}{e62bbf15cd867b8510860c436fc56eb8}
+      \strng{fullhash}{da48e964fe3f802a95f4f16f80e327fe}
+      \strng{fullhashraw}{da48e964fe3f802a95f4f16f80e327fe}
+      \strng{bibnamehash}{e62bbf15cd867b8510860c436fc56eb8}
+      \strng{authorbibnamehash}{e62bbf15cd867b8510860c436fc56eb8}
+      \strng{authornamehash}{e62bbf15cd867b8510860c436fc56eb8}
+      \strng{authorfullhash}{da48e964fe3f802a95f4f16f80e327fe}
+      \strng{authorfullhashraw}{da48e964fe3f802a95f4f16f80e327fe}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aorta}
+      \field{number}{04}
+      \field{title}{The mystery of the Z-score}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{pages}{124\bibrangedash 130}
+      \range{pages}{7}
+    \endentry
+    \entry{DS18B20}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb07868b1e950611755339cad4ba60d2}{%
+           family={{Dallas Semiconductor}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb07868b1e950611755339cad4ba60d2}
+      \strng{fullhash}{bb07868b1e950611755339cad4ba60d2}
+      \strng{fullhashraw}{bb07868b1e950611755339cad4ba60d2}
+      \strng{bibnamehash}{bb07868b1e950611755339cad4ba60d2}
+      \strng{authorbibnamehash}{bb07868b1e950611755339cad4ba60d2}
+      \strng{authornamehash}{bb07868b1e950611755339cad4ba60d2}
+      \strng{authorfullhash}{bb07868b1e950611755339cad4ba60d2}
+      \strng{authorfullhashraw}{bb07868b1e950611755339cad4ba60d2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 07 mai. 2024}
+      \field{title}{DS18B20 Programmable Resolution 1-Wire\textregistered{} Digital Thermometer}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.alldatasheet.com/datasheet-pdf/pdf/58557/DALLAS/DS18B20.html
+      \endverb
+      \verb{url}
+      \verb https://www.alldatasheet.com/datasheet-pdf/pdf/58557/DALLAS/DS18B20.html
+      \endverb
+    \endentry
+    \entry{dubois1916formula}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50d3ade5f8784a1af6c568c396cff935}{%
+           family={DuBois},
+           familyi={D\bibinitperiod},
+           given={Delafield},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{fullhash}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{fullhashraw}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{bibnamehash}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{authorbibnamehash}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{authornamehash}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{authorfullhash}{50d3ade5f8784a1af6c568c396cff935}
+      \strng{authorfullhashraw}{50d3ade5f8784a1af6c568c396cff935}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arch intern med}
+      \field{title}{A formula to estimate the approx-imate surface area if height and weight be known}
+      \field{volume}{17}
+      \field{year}{1916}
+      \field{pages}{863\bibrangedash 871}
+      \range{pages}{9}
+    \endentry
+    \entry{micro_usb}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b8944ed40903bc5fcf7b96eefffe5d1}{%
+           family={Eletrogate},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{fullhash}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{fullhashraw}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{bibnamehash}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{authorbibnamehash}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{authornamehash}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{authorfullhash}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \strng{authorfullhashraw}{3b8944ed40903bc5fcf7b96eefffe5d1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 03 set. 2024}
+      \field{title}{M\'{o}dulo Adaptador Micro USB F\^{e}mea para DIP}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.eletrogate.com/modulo-adaptador-micro-usb-femea-para-dip
+      \endverb
+      \verb{url}
+      \verb https://www.eletrogate.com/modulo-adaptador-micro-usb-femea-para-dip
+      \endverb
+    \endentry
+    \entry{imgBMP280}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b461d9a304924f8795dbc6aa67a38016}{%
+           family={{Eletronik LV}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{fullhash}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{fullhashraw}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{bibnamehash}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{authorbibnamehash}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{authornamehash}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{authorfullhash}{b461d9a304924f8795dbc6aa67a38016}
+      \strng{authorfullhashraw}{b461d9a304924f8795dbc6aa67a38016}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 07 mai. 2024}
+      \field{title}{SENSOR DE PRESS\~{A}O E TEMPERATURA BMP280}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://eletroniklv.com.br/sensor-de-pressao-e-temperatura-bmp280
+      \endverb
+      \verb{url}
+      \verb https://eletroniklv.com.br/sensor-de-pressao-e-temperatura-bmp280
+      \endverb
+    \endentry
+    \entry{fanger1970thermal}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb740c446be00ab84503832bdf0aa799}{%
+           family={Fanger},
+           familyi={F\bibinitperiod},
+           given={Poul\bibnamedelima O},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb740c446be00ab84503832bdf0aa799}
+      \strng{fullhash}{fb740c446be00ab84503832bdf0aa799}
+      \strng{fullhashraw}{fb740c446be00ab84503832bdf0aa799}
+      \strng{bibnamehash}{fb740c446be00ab84503832bdf0aa799}
+      \strng{authorbibnamehash}{fb740c446be00ab84503832bdf0aa799}
+      \strng{authornamehash}{fb740c446be00ab84503832bdf0aa799}
+      \strng{authorfullhash}{fb740c446be00ab84503832bdf0aa799}
+      \strng{authorfullhashraw}{fb740c446be00ab84503832bdf0aa799}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermal comfort. Analysis and applications in environmental engineering.}
+      \field{year}{1970}
+    \endentry
+    \entry{g1}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca74a5c51ecefadee9f4b9fe23265f5e}{%
+           family={{Fernanda Elnor}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{fullhash}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{fullhashraw}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{bibnamehash}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{authorbibnamehash}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{authornamehash}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{authorfullhash}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \strng{authorfullhashraw}{ca74a5c51ecefadee9f4b9fe23265f5e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 20 nov. 2024}
+      \field{title}{50 anos do metr\^{o} no Brasil em n\'{u}meros: 606 milh\~{o}es de km percorridos e 33 bilh\~{o}es de passageiros transportados em SP}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://g1.globo.com/sp/sao-paulo/noticia/2024/09/14/50-anos-do-metro-no-brasil-em-numeros-606-milhoes-de-km-percorridos-e-33-bilhoes-de-passageiros-transportados-em-sp.ghtml
+      \endverb
+      \verb{url}
+      \verb https://g1.globo.com/sp/sao-paulo/noticia/2024/09/14/50-anos-do-metro-no-brasil-em-numeros-606-milhoes-de-km-percorridos-e-33-bilhoes-de-passageiros-transportados-em-sp.ghtml
+      \endverb
+    \endentry
+    \entry{ferreira2001modelo}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30fe73cbbdbc9141908640aa294f7825}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Maur\'{\i}cio\bibnamedelima Silva},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de S\~{a}o Paulo}%
+      }
+      \strng{namehash}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{fullhash}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{fullhashraw}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{bibnamehash}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{authorbibnamehash}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{authornamehash}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{authorfullhash}{30fe73cbbdbc9141908640aa294f7825}
+      \strng{authorfullhashraw}{30fe73cbbdbc9141908640aa294f7825}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{title}{Um modelo do sistema t\'{e}rmico do corpo humano.}
+      \field{type}{phdthesis}
+      \field{year}{2001}
+    \endentry
+    \entry{IBGE}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3898f1ceb6fdd56f963db7f9326130e4}{%
+           family={IBGE},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{fullhash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{fullhashraw}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{bibnamehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authorbibnamehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authornamehash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authorfullhash}{3898f1ceb6fdd56f963db7f9326130e4}
+      \strng{authorfullhashraw}{3898f1ceb6fdd56f963db7f9326130e4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 mar. 2024}
+      \field{title}{IBGE Cidades}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://cidades.ibge.gov.br/brasil/sp/sao-paulo/panorama
+      \endverb
+      \verb{url}
+      \verb https://cidades.ibge.gov.br/brasil/sp/sao-paulo/panorama
+      \endverb
+    \endentry
+    \entry{mm}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bea3f327cee6a7225494594b77882086}{%
+           family={Investimentos},
+           familyi={I\bibinitperiod},
+           given={Equipe\bibnamedelima Toro},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bea3f327cee6a7225494594b77882086}
+      \strng{fullhash}{bea3f327cee6a7225494594b77882086}
+      \strng{fullhashraw}{bea3f327cee6a7225494594b77882086}
+      \strng{bibnamehash}{bea3f327cee6a7225494594b77882086}
+      \strng{authorbibnamehash}{bea3f327cee6a7225494594b77882086}
+      \strng{authornamehash}{bea3f327cee6a7225494594b77882086}
+      \strng{authorfullhash}{bea3f327cee6a7225494594b77882086}
+      \strng{authorfullhashraw}{bea3f327cee6a7225494594b77882086}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 out. 2024}
+      \field{title}{M\'{e}dia M\'{o}vel: aprenda o que \'{e} e como utilizar esse indicador}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://blog.toroinvestimentos.com.br/trading/media-movel/
+      \endverb
+      \verb{url}
+      \verb https://blog.toroinvestimentos.com.br/trading/media-movel/
+      \endverb
+    \endentry
+    \entry{kerschbaumer2013microcontroladores}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e0c3423fb2cc936d15ecab7a7914b3d}{%
+           family={Kerschbaumer},
+           familyi={K\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{fullhash}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{fullhashraw}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{bibnamehash}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{authorbibnamehash}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{authornamehash}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{authorfullhash}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \strng{authorfullhashraw}{9e0c3423fb2cc936d15ecab7a7914b3d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Santa Catarina, Brasil}
+      \field{title}{Microcontroladores}
+      \field{year}{2013}
+    \endentry
+    \entry{konstantinov2015numerical}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a16f2c6689f5a2c08b1160797caebed6}{%
+           family={Konstantinov},
+           familyi={K\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d45eee818c7da72f1fb557f92ee1e2b}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Saxe-Coburg}%
+      }
+      \strng{namehash}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{fullhash}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{fullhashraw}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{bibnamehash}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{authorbibnamehash}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{authornamehash}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{authorfullhash}{91352a323f702f53ccf9a87bed4f6931}
+      \strng{authorfullhashraw}{91352a323f702f53ccf9a87bed4f6931}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Railway Technology}
+      \field{number}{3}
+      \field{title}{Numerical simulation of the thermal comfort in a train cabin}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{pages}{69\bibrangedash 88}
+      \range{pages}{20}
+    \endentry
+    \entry{kreith1999mechanical}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=592c9cc62e5683749c019cd8beae88b2}{%
+           family={Kreith},
+           familyi={K\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7badb5b39ec53931549723f9247fb7b}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={SA},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08b7f6fced245d53a81e68450c19c123}
+      \strng{fullhash}{08b7f6fced245d53a81e68450c19c123}
+      \strng{fullhashraw}{08b7f6fced245d53a81e68450c19c123}
+      \strng{bibnamehash}{08b7f6fced245d53a81e68450c19c123}
+      \strng{authorbibnamehash}{08b7f6fced245d53a81e68450c19c123}
+      \strng{authornamehash}{08b7f6fced245d53a81e68450c19c123}
+      \strng{authorfullhash}{08b7f6fced245d53a81e68450c19c123}
+      \strng{authorfullhashraw}{08b7f6fced245d53a81e68450c19c123}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intelligent Transportation Systems}
+      \field{title}{Mechanical Engineering Handbook Ed. Frank Kreith Boca Raton: CRC Press LLC, 1999}
+      \field{volume}{10}
+      \field{year}{1999}
+    \endentry
+    \entry{li2019multi}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=be33d74fcb297deee4a8f12367baa4de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eba68d34a25d8e0125cb5eeb7f44fbd9}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e19f117f2923574b82023ddbfe80eec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=463cce381137de05edaf71984bd8064c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiangdong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df3f547ca99da34bea1c10403c6c9041}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Jiyuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf1adee4a3901e11fb5761dc4ba4384f}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Sherman\bibnamedelima CP},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f14e92fadb3b8f3af50a3ba37624c985}
+      \strng{fullhash}{f06d6d352aa1158c7b7f8d5288214884}
+      \strng{fullhashraw}{f06d6d352aa1158c7b7f8d5288214884}
+      \strng{bibnamehash}{f14e92fadb3b8f3af50a3ba37624c985}
+      \strng{authorbibnamehash}{f14e92fadb3b8f3af50a3ba37624c985}
+      \strng{authornamehash}{f14e92fadb3b8f3af50a3ba37624c985}
+      \strng{authorfullhash}{f06d6d352aa1158c7b7f8d5288214884}
+      \strng{authorfullhashraw}{f06d6d352aa1158c7b7f8d5288214884}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Building and Environment}
+      \field{title}{Multi-objective optimization for designing of high-speed train cabin ventilation system using particle swarm optimization and multi-fidelity Kriging}
+      \field{volume}{155}
+      \field{year}{2019}
+      \field{pages}{161\bibrangedash 174}
+      \range{pages}{14}
+    \endentry
+    \entry{ventilacaoindustrial}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56c59c225c2a2c3b9ea1445dfea9177c}{%
+           family={Macintyre},
+           familyi={M\bibinitperiod},
+           given={Archibald\bibnamedelima Joseph},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Editora Guanabara}%
+      }
+      \strng{namehash}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{fullhash}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{fullhashraw}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{bibnamehash}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{authorbibnamehash}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{authornamehash}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{authorfullhash}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \strng{authorfullhashraw}{56c59c225c2a2c3b9ea1445dfea9177c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ventila\c{c}\~{a}o Industrial e Controle da Polui\c{c}\~{a}o}
+      \field{year}{1988}
+    \endentry
+    \entry{mccullough1989data}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44efafa8524011f49bf68bfdbc101aae}{%
+           family={McCullough},
+           familyi={M\bibinitperiod},
+           given={EA},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{fullhash}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{fullhashraw}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{bibnamehash}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{authorbibnamehash}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{authornamehash}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{authorfullhash}{44efafa8524011f49bf68bfdbc101aae}
+      \strng{authorfullhashraw}{44efafa8524011f49bf68bfdbc101aae}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ashrae Trans.}
+      \field{title}{A data base for determining the evaporative resistance of clothing}
+      \field{volume}{95}
+      \field{year}{1989}
+      \field{pages}{316\bibrangedash 328}
+      \range{pages}{13}
+    \endentry
+    \entry{frotaL}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35b1c547dbcba6f4cefb55e04c313963}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{fullhash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{fullhashraw}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{bibnamehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authorbibnamehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authornamehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authorfullhash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authorfullhashraw}{35b1c547dbcba6f4cefb55e04c313963}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 03 set. 2024}
+      \field{title}{Em reportagem, TV Globo distorce fatos sobre falhas no Metr\^{o}}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.metrocptm.com.br/em-reportagem-tv-globo-distorce-fatos-sobre-falhas-no-metro/
+      \endverb
+      \verb{url}
+      \verb https://www.metrocptm.com.br/em-reportagem-tv-globo-distorce-fatos-sobre-falhas-no-metro/
+      \endverb
+    \endentry
+    \entry{Mapametro}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35b1c547dbcba6f4cefb55e04c313963}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{fullhash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{fullhashraw}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{bibnamehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authorbibnamehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authornamehash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authorfullhash}{35b1c547dbcba6f4cefb55e04c313963}
+      \strng{authorfullhashraw}{35b1c547dbcba6f4cefb55e04c313963}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 10 mai. 2024}
+      \field{title}{Veja o mapa de esta\c{c}\~{o}es do Metr\^{o} e CPTM}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.metrocptm.com.br/veja-o-mapa-de-estacoes-do-metro-e-cptm/
+      \endverb
+      \verb{url}
+      \verb https://www.metrocptm.com.br/veja-o-mapa-de-estacoes-do-metro-e-cptm/
+      \endverb
+    \endentry
+    \entry{piezo}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dfa60416134460c727ccb5d8e79ad7f0}{%
+           family={Meti},
+           familyi={M\bibinitperiod},
+           given={Shwetha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0bd257a7d8fdbbf5c3963ed820dd26a}{%
+           family={Balavald},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi Kirankumar},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e93471ebe743d5f8a5ef2924808e0432}{%
+           family={Sheeparmatti},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Ijera}%
+      }
+      \strng{namehash}{2669fc27318be0e640244ecc234de09a}
+      \strng{fullhash}{2669fc27318be0e640244ecc234de09a}
+      \strng{fullhashraw}{2669fc27318be0e640244ecc234de09a}
+      \strng{bibnamehash}{2669fc27318be0e640244ecc234de09a}
+      \strng{authorbibnamehash}{2669fc27318be0e640244ecc234de09a}
+      \strng{authornamehash}{2669fc27318be0e640244ecc234de09a}
+      \strng{authorfullhash}{2669fc27318be0e640244ecc234de09a}
+      \strng{authorfullhashraw}{2669fc27318be0e640244ecc234de09a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Engineering Research and Applications}
+      \field{title}{MEMS Piezoresistive Pressure Sensor: A Survey}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{pages}{23\bibrangedash 31}
+      \range{pages}{9}
+    \endentry
+    \entry{metrosp2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=477297ea5b74e4a55f186b5fbc88105c}{%
+           family={{Metr\^{o} de S\~{a}o Paulo}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{fullhash}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{fullhashraw}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{bibnamehash}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{authorbibnamehash}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{authornamehash}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{authorfullhash}{477297ea5b74e4a55f186b5fbc88105c}
+      \strng{authorfullhashraw}{477297ea5b74e4a55f186b5fbc88105c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Parceria FEI e Metr\^{o} S\^{a}o Paulo}
+      \field{title}{Dados fornecidos para o TCC pelo Metr\^{o} S\~{a}o Paulo}
+      \field{year}{2024}
+    \endentry
+    \entry{MetroSP}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=500c44a85b9195d11202ec972fd89ae3}{%
+           family={{Metr\^{o} de SP}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{fullhash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{fullhashraw}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{bibnamehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authorbibnamehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authornamehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authorfullhash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authorfullhashraw}{500c44a85b9195d11202ec972fd89ae3}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 08 mar. 2024}
+      \field{title}{Canal de Transpar\^{e}ncia do Metr\^{o} de SP}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://transparencia.metrosp.com.br/dataset/canais-de-atendimento-ger\%C3\%AAncia-de-opera\%C3\%A7\%C3\%B5es
+      \endverb
+      \verb{url}
+      \verb https://transparencia.metrosp.com.br/dataset/canais-de-atendimento-ger%5C%C3%5C%AAncia-de-opera%5C%C3%5C%A7%5C%C3%5C%B5es
+      \endverb
+    \endentry
+    \entry{Trens_e_frotas}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=500c44a85b9195d11202ec972fd89ae3}{%
+           family={{Metr\^{o} de SP}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{fullhash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{fullhashraw}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{bibnamehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authorbibnamehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authornamehash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authorfullhash}{500c44a85b9195d11202ec972fd89ae3}
+      \strng{authorfullhashraw}{500c44a85b9195d11202ec972fd89ae3}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 19 nov. 2024}
+      \field{title}{Trens e Frota}
+      \verb{urlraw}
+      \verb https://www.metro.sp.gov.br/tecnologia/trens-frota/
+      \endverb
+      \verb{url}
+      \verb https://www.metro.sp.gov.br/tecnologia/trens-frota/
+      \endverb
+    \endentry
+    \entry{horariosmetro}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83974338d8a9860b05de7bb825031ec7}{%
+           family={{Metr\^{o} S\~{a}o Paulo}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{83974338d8a9860b05de7bb825031ec7}
+      \strng{fullhash}{83974338d8a9860b05de7bb825031ec7}
+      \strng{fullhashraw}{83974338d8a9860b05de7bb825031ec7}
+      \strng{bibnamehash}{83974338d8a9860b05de7bb825031ec7}
+      \strng{authorbibnamehash}{83974338d8a9860b05de7bb825031ec7}
+      \strng{authornamehash}{83974338d8a9860b05de7bb825031ec7}
+      \strng{authorfullhash}{83974338d8a9860b05de7bb825031ec7}
+      \strng{authorfullhashraw}{83974338d8a9860b05de7bb825031ec7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 out. 2024}
+      \field{title}{Hor\'{a}rios das Esta\c{c}\~{o}es}
+      \verb{urlraw}
+      \verb https://www.metro.sp.gov.br/sua-viagem/horarios/horarios-estacoes/
+      \endverb
+      \verb{url}
+      \verb https://www.metro.sp.gov.br/sua-viagem/horarios/horarios-estacoes/
+      \endverb
+    \endentry
+    \entry{ozicsik1993heat}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c48792f3e98e0844bdd325fdff48f2c}{%
+           family={\"{O}z{\i{}}\c{s}{\i{}}k},
+           familyi={\"{O}\bibinitperiod},
+           given={M\bibnamedelima Necati},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{fullhash}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{fullhashraw}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{bibnamehash}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{authorbibnamehash}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{authornamehash}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{authorfullhash}{4c48792f3e98e0844bdd325fdff48f2c}
+      \strng{authorfullhashraw}{4c48792f3e98e0844bdd325fdff48f2c}
+      \field{sortinit}{\"{O}}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heat conduction}
+      \field{year}{1993}
+    \endentry
+    \entry{peric2002computational}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4e5eff4468ed6699d8db9b51d1f99a6f}{%
+           family={Peric},
+           familyi={P\bibinitperiod},
+           given={Milovan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=206016711f7515933edfdf2f575bf82c}{%
+           family={Ferziger},
+           familyi={F\bibinitperiod},
+           given={Joel\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{fullhash}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{fullhashraw}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{bibnamehash}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{authorbibnamehash}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{authornamehash}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{authorfullhash}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \strng{authorfullhashraw}{0d0baa2097125129a2b65ab4dfdb1dce}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Spring-Verlag: Berlin}
+      \field{title}{Computational methods for fluid dynamics}
+      \field{volume}{3}
+      \field{year}{2002}
+    \endentry
+    \entry{prototype}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc04ba7b928074a77e9de5fd1edab836}{%
+           family={{PROTOTYPE DIY}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{fullhash}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{fullhashraw}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{bibnamehash}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{authorbibnamehash}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{authornamehash}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{authorfullhash}{bc04ba7b928074a77e9de5fd1edab836}
+      \strng{authorfullhashraw}{bc04ba7b928074a77e9de5fd1edab836}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 20 set. 2024}
+      \field{title}{Catalex Micro SD Card Module}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.prototypediy.co.za/product/catalex-micro-sd-card-module/
+      \endverb
+      \verb{url}
+      \verb https://www.prototypediy.co.za/product/catalex-micro-sd-card-module/
+      \endverb
+    \endentry
+    \entry{barrapinofemea}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c244c7fa7f47268d53d703fb08dc00b}{%
+           family={{Ryndack Componentes}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{fullhash}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{fullhashraw}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{bibnamehash}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{authorbibnamehash}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{authornamehash}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{authorfullhash}{5c244c7fa7f47268d53d703fb08dc00b}
+      \strng{authorfullhashraw}{5c244c7fa7f47268d53d703fb08dc00b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 30 out. 2024}
+      \field{title}{Barra de Pinos F\^{e}mea 1x20 Passo 2,54mm (MCI)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ryndackcomponentes.com.br/barra-de-pinos-femea-1x20-passo-2-54mm-mci.html
+      \endverb
+      \verb{url}
+      \verb https://www.ryndackcomponentes.com.br/barra-de-pinos-femea-1x20-passo-2-54mm-mci.html
+      \endverb
+    \endentry
+    \entry{inicio}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9964a55ea02c8f8946e88dda0f176bd9}{%
+           family={{S\~{a}o Paulo Governo do Estado}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{fullhash}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{fullhashraw}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{bibnamehash}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{authorbibnamehash}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{authornamehash}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{authorfullhash}{9964a55ea02c8f8946e88dda0f176bd9}
+      \strng{authorfullhashraw}{9964a55ea02c8f8946e88dda0f176bd9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 25 out. 2024}
+      \field{title}{Metr\^{o} completa 39 anos facilitando a mobilidade urbana em S\~{a}o Paulo}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.saopaulo.sp.gov.br/sala-de-imprensa/release/metro-completa-39-anos-facilitando-a-mobilidade-urbana-em-sao-paulo/#:~:text=Metr\%C3\%B4\%20completa\%2039\%20anos\%20facilitando\%20a\%20mobilidade\%20urbana\%20em\%20S\%C3\%A3o\%20Paulo-No\%20dia\%2014&text=H\%C3\%A1\%2039\%20anos\%2C\%20no\%20dia(Linha\%201\%2DAzul)
+      \endverb
+      \verb{url}
+      \verb https://www.saopaulo.sp.gov.br/sala-de-imprensa/release/metro-completa-39-anos-facilitando-a-mobilidade-urbana-em-sao-paulo/#:~:text=Metr%5C%C3%5C%B4%5C%20completa%5C%2039%5C%20anos%5C%20facilitando%5C%20a%5C%20mobilidade%5C%20urbana%5C%20em%5C%20S%5C%C3%5C%A3o%5C%20Paulo-No%5C%20dia%5C%2014&text=H%5C%C3%5C%A1%5C%2039%5C%20anos%5C%2C%5C%20no%5C%20dia(Linha%5C%201%5C%2DAzul)
+      \endverb
+    \endentry
+    \entry{sarfraz2018experimental}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b242cd032eb9ad0e0972f2b0e9073944}{%
+           family={Sarfraz},
+           familyi={S\bibinitperiod},
+           given={Omer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd1e7da23105ab4d24e93fc12fbf81b7}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Christian\bibnamedelima K},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{fullhash}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{fullhashraw}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{bibnamehash}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{authorbibnamehash}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{authornamehash}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{authorfullhash}{67185bc6ec2a24994bf202f3b4b16bed}
+      \strng{authorfullhashraw}{67185bc6ec2a24994bf202f3b4b16bed}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and Technology for the Built Environment}
+      \field{number}{4}
+      \field{title}{Experimental methodology and results for heat gains from various office equipment (ASHRAE RP-1742)}
+      \field{volume}{24}
+      \field{year}{2018}
+      \field{pages}{435\bibrangedash 447}
+      \range{pages}{13}
+    \endentry
+    \entry{SCD30}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cd777de87a3daf85150749e72732b6f0}{%
+           family={SENSIRION},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd777de87a3daf85150749e72732b6f0}
+      \strng{fullhash}{cd777de87a3daf85150749e72732b6f0}
+      \strng{fullhashraw}{cd777de87a3daf85150749e72732b6f0}
+      \strng{bibnamehash}{cd777de87a3daf85150749e72732b6f0}
+      \strng{authorbibnamehash}{cd777de87a3daf85150749e72732b6f0}
+      \strng{authornamehash}{cd777de87a3daf85150749e72732b6f0}
+      \strng{authorfullhash}{cd777de87a3daf85150749e72732b6f0}
+      \strng{authorfullhashraw}{cd777de87a3daf85150749e72732b6f0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 07 mai. 2024}
+      \field{title}{Datasheet Sensirion SCD30 Sensor Module CO2, humidity, and temperature sensor}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://sensirion.com/media/documents/4EAF6AF8/61652C3C/Sensirion_CO2_Sensors_SCD30_Datasheet.pdf
+      \endverb
+      \verb{url}
+      \verb https://sensirion.com/media/documents/4EAF6AF8/61652C3C/Sensirion_CO2_Sensors_SCD30_Datasheet.pdf
+      \endverb
+    \endentry
+    \entry{silvaco2}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6603cba09b036172908d0d6f962993c1}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=51cab980157afe92902436596c0f8107}{%
+           family={Odisi},
+           familyi={O\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=801eb3794223a88baf097ccc0aac4626}{%
+           family={Noriler},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fa4a01df7658dae578cd7e03f0524d4}{%
+           family={Reinehr},
+           familyi={R\bibinitperiod},
+           given={E.\bibnamedelimi L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e08eac509ee2625bc5605760a5fcaaa5}
+      \strng{fullhash}{2e9f5c6017a94d019397ac0840dcbb8f}
+      \strng{fullhashraw}{2e9f5c6017a94d019397ac0840dcbb8f}
+      \strng{bibnamehash}{e08eac509ee2625bc5605760a5fcaaa5}
+      \strng{authorbibnamehash}{e08eac509ee2625bc5605760a5fcaaa5}
+      \strng{authornamehash}{e08eac509ee2625bc5605760a5fcaaa5}
+      \strng{authorfullhash}{2e9f5c6017a94d019397ac0840dcbb8f}
+      \strng{authorfullhashraw}{2e9f5c6017a94d019397ac0840dcbb8f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{XX Congresso Brasileiro de Engenharia Qu\'{\i}mica}
+      \field{number}{2}
+      \field{title}{Estudo da distribui\c{c}\~{a}o e evolu\c{c}\~{a}o da concentra\c{c}\~{a}o de di\'{o}xido de carbono em uma sala de aula}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{12600\bibrangedash 12607}
+      \range{pages}{8}
+    \endentry
+    \entry{sousaPCB}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe1db00c86a454faa2b5bb20ea21a136}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={Flavia\bibnamedelimb Maria\bibnamedelimb Guerra\bibnamedelima de},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Unicamp}%
+      }
+      \strng{namehash}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{fullhash}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{fullhashraw}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{bibnamehash}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{authorbibnamehash}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{authornamehash}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{authorfullhash}{fe1db00c86a454faa2b5bb20ea21a136}
+      \strng{authorfullhashraw}{fe1db00c86a454faa2b5bb20ea21a136}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universidade Estadual de Campinas, Faculdade de Engenharia El\'{e}trica e de Computa\c{c}\~{a}o}
+      \field{title}{Controle de fresadora para prototipagem de circuitos impressos}
+      \field{year}{1998}
+    \endentry
+    \entry{stoco}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d6a86996c01de81c13b1150b192b62a3}{%
+           family={Stoco},
+           familyi={S\bibinitperiod},
+           given={Marcos\bibnamedelima Augusto},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{fullhash}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{fullhashraw}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{bibnamehash}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{authorbibnamehash}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{authornamehash}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{authorfullhash}{d6a86996c01de81c13b1150b192b62a3}
+      \strng{authorfullhashraw}{d6a86996c01de81c13b1150b192b62a3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instituto de Astronomia, Geof\'{\i}sica e Ci\^{e}ncias Atmosf\'{e}ricas}
+      \field{title}{Di\'{o}xido de carbono na cidade de S\~{a}o Paulo: medidas em superf\'{\i}cie e an\'{a}lises sazonais}
+      \field{year}{2022}
+    \endentry
+    \entry{TESTO_405}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60367753f278fddf458397dbaf63cad0}{%
+           family={Testo},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{60367753f278fddf458397dbaf63cad0}
+      \strng{fullhash}{60367753f278fddf458397dbaf63cad0}
+      \strng{fullhashraw}{60367753f278fddf458397dbaf63cad0}
+      \strng{bibnamehash}{60367753f278fddf458397dbaf63cad0}
+      \strng{authorbibnamehash}{60367753f278fddf458397dbaf63cad0}
+      \strng{authornamehash}{60367753f278fddf458397dbaf63cad0}
+      \strng{authorfullhash}{60367753f278fddf458397dbaf63cad0}
+      \strng{authorfullhashraw}{60367753f278fddf458397dbaf63cad0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 19 nov. 2024}
+      \field{title}{testo 405 - Pocket-sized thermal anemometer}
+      \verb{urlraw}
+      \verb https://www.testo.com/en-US/testo-405/p/0560-4053
+      \endverb
+      \verb{url}
+      \verb https://www.testo.com/en-US/testo-405/p/0560-4053
+      \endverb
+    \endentry
+    \entry{HDC1080}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67e54b1ee931f3f4bddfefa5fbde5fd8}{%
+           family={{Texas Instruments}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{fullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{fullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{bibnamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorbibnamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authornamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorfullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorfullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 07 mai. 2024}
+      \field{title}{HDC1080 Low Power, High Accuracy Digital Humidity Sensor with Temperature Sensor}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/ds/symlink/hdc1080.pdf?ts=1715331504738&ref_url=https\%253A\%252F\%252Fwww.google.com\%252F
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/ds/symlink/hdc1080.pdf?ts=1715331504738&ref_url=https%5C%253A%5C%252F%5C%252Fwww.google.com%5C%252F
+      \endverb
+    \endentry
+    \entry{TCCThomas}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=19040dc4fb1480f5ed635db5a2efc9ed}{%
+           family={Theodoro},
+           familyi={T\bibinitperiod},
+           given={Ana\bibnamedelimb Beatriz\bibnamedelima Monteiro},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2afb0bd045109b9a04866628fee100d1}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={B\'{a}rbara\bibnamedelima Fiocchi},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e078cb170d063912a3bb890748cdfcc6}{%
+           family={Yatim},
+           familyi={Y\bibinitperiod},
+           given={Fuad\bibnamedelima Jamil},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=467b6d8bfcf51c5c31477d80bb685504}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b02bdca3c24d528094934da2f34c435a}{%
+           family={Guariza},
+           familyi={G\bibinitperiod},
+           given={Rafael\bibnamedelimb de\bibnamedelima Olveira},
+           giveni={R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a042ade851e0d069be1d2bc85a00d80}
+      \strng{fullhash}{5ac803e8a3ba16c4fe8384d4bff8e6f0}
+      \strng{fullhashraw}{5ac803e8a3ba16c4fe8384d4bff8e6f0}
+      \strng{bibnamehash}{7a042ade851e0d069be1d2bc85a00d80}
+      \strng{authorbibnamehash}{7a042ade851e0d069be1d2bc85a00d80}
+      \strng{authornamehash}{7a042ade851e0d069be1d2bc85a00d80}
+      \strng{authorfullhash}{5ac803e8a3ba16c4fe8384d4bff8e6f0}
+      \strng{authorfullhashraw}{5ac803e8a3ba16c4fe8384d4bff8e6f0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparativo do Conforto T\'{e}rmico entre as Linhas Vermelha e Azul do Metr\^{o} de S\~{a}o Paulo Utilizando o M\'{e}todo de Volumes Finitos}
+      \field{year}{2023}
+    \endentry
+    \entry{barrapinomacho}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c20bf8226ae71f1c3a8ba5d30bef2a52}{%
+           family={Usinainfo},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{fullhash}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{fullhashraw}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{bibnamehash}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{authorbibnamehash}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{authornamehash}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{authorfullhash}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \strng{authorfullhashraw}{c20bf8226ae71f1c3a8ba5d30bef2a52}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 30 out. 2024}
+      \field{title}{Barra de pinos macho 1x40 vias com passo de 2,54mm 180\textdegree{} - Preto}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.usinainfo.com.br/barras-de-pinos/barra-de-pinos-macho-1x40-vias-com-passo-de-254mm-180-preto-2748.html
+      \endverb
+      \verb{url}
+      \verb https://www.usinainfo.com.br/barras-de-pinos/barra-de-pinos-macho-1x40-vias-com-passo-de-254mm-180-preto-2748.html
+      \endverb
+    \endentry
+    \entry{NDIR}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8face7d561e7c77344c14a906c5011f7}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Libing},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd6e370bde9d19280f4674c073f4b62f}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yaoyi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2075ed5f00e45e9ee3f0dcecd09bc398}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4a4cbf770add19c206827116c68732e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{c666770b42d85c6f98ca388211af4089}
+      \strng{fullhash}{669d16abeb86640a2378a635d11cb099}
+      \strng{fullhashraw}{669d16abeb86640a2378a635d11cb099}
+      \strng{bibnamehash}{c666770b42d85c6f98ca388211af4089}
+      \strng{authorbibnamehash}{c666770b42d85c6f98ca388211af4089}
+      \strng{authornamehash}{c666770b42d85c6f98ca388211af4089}
+      \strng{authorfullhash}{669d16abeb86640a2378a635d11cb099}
+      \strng{authorfullhashraw}{669d16abeb86640a2378a635d11cb099}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Micromachines}
+      \field{title}{Carbon Dioxide Sensor Module Based on NDIR Technology}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{845\bibrangedash 855}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,135 @@
+\babel@toc {brazil}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {english}{}\relax
+\babel@toc {brazil}{}\relax
+\babel@toc {english}{}\relax
+\babel@toc {brazil}{}\relax
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1}{\ignorespaces Distribuição das viagens na grande São Paulo}}{15}{figure.caption.7}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Reclamações totais do Metrô de São Paulo no ano de 2023}}{16}{figure.caption.8}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Reclamações de ar-condicionado do Metrô de São Paulo no ano de 2023}}{16}{figure.caption.8}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4}{\ignorespaces Gráfico \textit {PMV} x \textit {PPD}}}{37}{figure.caption.21}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Zonas de Conforto conforme \textit {ASHRAE}}}{38}{figure.caption.22}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Representação dos parâmetros ideais conforme norma \blx@tocontentsinit {0}\textcite {abnt216401} na carta psicrométrica}}{39}{figure.caption.24}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {7}{\ignorespaces Trem da frota L do Metrô de São Paulo}}{42}{figure.caption.25}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Mapa da rede de trem e Metrô da cidade de São Paulo}}{42}{figure.caption.25}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Fluxograma da metodologia}}{43}{figure.caption.26}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Explicação da instalação das placas de medições}}{44}{figure.caption.27}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Relação de temperaturas para o Metrô de São Paulo}}{45}{figure.caption.28}%
+\contentsline {figure}{\numberline {12}{\ignorespaces TESTO 405 - Anemômetro e Termômetro compacto}}{49}{figure.caption.30}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Diagrama da pinagem do sensor DS18B20}}{49}{figure.caption.31}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Diagrama de blocos para o sensor DS18B20}}{50}{figure.caption.32}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Diagrama da pinagem do sensor HDC1080}}{51}{figure.caption.33}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Diagrama de blocos para o sensor HDC1080}}{52}{figure.caption.34}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Diagrama da pinagem do sensor SCD30}}{53}{figure.caption.35}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Definição de pinos do BMP280}}{54}{figure.caption.36}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Princípio de funcionamento de um sensor piezo resistivo}}{55}{figure.caption.37}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Fluxograma dos sensores}}{56}{figure.caption.38}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Pinagem do Arduino Nano}}{57}{figure.caption.39}%
+\contentsline {figure}{\numberline {22}{\ignorespaces \textit {Módulo Micro SD Card}}}{58}{figure.caption.40}%
+\contentsline {figure}{\numberline {23}{\ignorespaces \textit {Footprint} para montar a \textit {protoboard} - Kit Conforto}}{59}{figure.caption.41}%
+\contentsline {figure}{\numberline {24}{\ignorespaces \textit {Footprint} para montar a \textit {protoboard} - Kit Pressão}}{59}{figure.caption.42}%
+\contentsline {figure}{\numberline {25}{\ignorespaces \textit {Protoboard} montada - Kit Conforto}}{60}{figure.caption.43}%
+\contentsline {figure}{\numberline {26}{\ignorespaces \textit {Protoboard} montada - Kit Pressão}}{60}{figure.caption.44}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Barra de pinos de tipo macho}}{61}{figure.caption.45}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Barra de pinos de tipo fêmea}}{61}{figure.caption.45}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Módulo Adaptador Micro \textit {USB} Fêmea para \textit {DIP}}}{62}{figure.caption.46}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Máscara para produção do \textit {PCB} do Kit Conforto}}{63}{figure.caption.47}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Máscara para produção do \textit {PCB} do Kit Pressão}}{63}{figure.caption.47}%
+\contentsline {figure}{\numberline {32}{\ignorespaces \textit {PCB} do Kit Conforto}}{64}{figure.caption.48}%
+\contentsline {figure}{\numberline {33}{\ignorespaces \textit {PCB} do Kit Pressão}}{64}{figure.caption.49}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Trem L41, estacionado no Pátio Jabaquara}}{66}{figure.caption.50}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Carro de número 2 do trem L28}}{67}{figure.caption.51}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Materiais utilizados para fixação dos Kits no carro}}{67}{figure.caption.51}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Kit Conforto instalado em um monitor do Metrô}}{68}{figure.caption.52}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Kit Conforto instalado acima de uma barra de apoio}}{68}{figure.caption.53}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Kits Conforto e Pressão instalados na janela na extremidade do carro}}{69}{figure.caption.54}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Visão com maior detalhe dos Kits Conforto e Pressão instalados na janela na extremidade do carro}}{70}{figure.caption.55}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Peso em Cada carro da frota L}}{72}{figure.caption.56}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Localização do sensor de temperatura de exaustão do Metrô}}{73}{figure.caption.57}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Sensores de Temperatura Utilizados pelo Metrô de SP}}{73}{figure.caption.58}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Temperatura em Cada carro da frota L}}{74}{figure.caption.59}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Trecho da Planilha das Reclamações da frota L}}{74}{figure.caption.60}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Desenho 3D Preliminar}}{76}{figure.caption.61}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Distribuição das pessoas no carro}}{76}{figure.caption.62}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Pontos Insuflamento e Exaustao}}{77}{figure.caption.64}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {49}{\ignorespaces Fluxograma dos dados fornecidos pelo Metrô de São Paulo}}{81}{figure.caption.68}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Gráfico da distribuição dos valores do \textit {${Z}_{score}$}}}{82}{figure.caption.69}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Fluxograma dos dados após tratamento de dados}}{83}{figure.caption.70}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Fluxograma dos modelos 1 e 2 pelo Metrô de São Paulo}}{84}{figure.caption.71}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Fluxograma do modelo 3 pelo Metrô de São Paulo}}{84}{figure.caption.72}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Gráfico do Modelo 1 numero de pessoas ao longo do tempo}}{85}{figure.caption.73}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Gráfico do Modelo 2 numero de pessoas ao longo do tempo}}{86}{figure.caption.74}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Gráfico do Modelo 3 numero de pessoas ao longo do tempo}}{87}{figure.caption.75}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Modelo 1 com MMA}}{88}{figure.caption.76}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Modelo 1 com MME}}{88}{figure.caption.76}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Modelo 2 com MMA}}{89}{figure.caption.77}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Modelo 2 com MME}}{89}{figure.caption.77}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Modelo 3 com MMA}}{89}{figure.caption.78}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Modelo 3 com MME}}{89}{figure.caption.78}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Gráfico do Modelo 2 com MME número de pessoas ao longo do tempo}}{90}{figure.caption.79}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Gráfico do Modelo 2 com MME de temperatura externa ao longo do tempo}}{91}{figure.caption.80}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Gráfico do Modelo 2 com MME de temperatura exaustão ao longo do tempo}}{91}{figure.caption.81}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Média de Temperatura de exaustão na frota L por dia da semana}}{92}{figure.caption.82}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Média de numero de pessoas na frota L por dia da semana}}{94}{figure.caption.83}%
+\contentsline {figure}{\numberline {68}{\ignorespaces Gráfico de dispersão de número de pessoas e temperatura de exaustão}}{95}{figure.caption.84}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Número de reclamações separada por tipo}}{97}{figure.caption.88}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Número de reclamações por mês do ano}}{98}{figure.caption.89}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Número de reclamações por dia da semana}}{99}{figure.caption.90}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Número de reclamações por horário}}{99}{figure.caption.91}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Gráfico de número de passageiros por reclamações dos passageiros}}{100}{figure.caption.92}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Gráfico de temperatura de exaustão por reclamações dos passageiros}}{101}{figure.caption.93}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Gráfico de temperatura externa por reclamações dos passageiros}}{101}{figure.caption.94}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Número de reclamações separadas por Trens no ano de 2023}}{103}{figure.caption.95}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Quilometragem rodada dos Trens no ano de 2023}}{103}{figure.caption.96}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Número de falhas dos Trens no ano de 2023}}{103}{figure.caption.96}%
+\contentsline {figure}{\numberline {79}{\ignorespaces Dados do Kit Conforto de insuflamento}}{104}{figure.caption.97}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Dados do Kit Conforto da extremidade do carro}}{105}{figure.caption.98}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Dados do Kit Conforto da exaustão próxima as portas}}{105}{figure.caption.99}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Dados do Kit Pressão da extremidade do carro}}{107}{figure.caption.101}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Velocidades de insuflamento coletadas ao longo do carro para 25/10/2024}}{108}{figure.caption.102}%
+\contentsline {figure}{\numberline {84}{\ignorespaces Temperaturas coletadas e fornecidas ao grupo em função do horário, com estações indicadas}}{117}{figure.caption.111}%
+\contentsline {figure}{\numberline {85}{\ignorespaces Umidades coletadas e temperatura externa fornecida ao grupo em função do horário, com estações indicadas}}{119}{figure.caption.112}%
+\contentsline {figure}{\numberline {86}{\ignorespaces Ocupação do carro fornecida ao grupo em função do horário, com estações indicadas}}{121}{figure.caption.113}%
+\contentsline {figure}{\numberline {87}{\ignorespaces Concentrações de ${CO}_{2}$ coletadas pelo grupo e ocupação do carro em função do horário, com estações indicadas}}{123}{figure.caption.114}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Carta psicrométrica para todos os pontos coletados}}{125}{figure.caption.115}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Histograma das concentrações de ${CO}_{2}$ coletadas pelo kit do insuflamento}}{126}{figure.caption.116}%
+\contentsline {figure}{\numberline {90}{\ignorespaces Histograma das concentrações de ${CO}_{2}$ coletadas pelo kit da extremidade}}{126}{figure.caption.117}%
+\contentsline {figure}{\numberline {91}{\ignorespaces Histograma das concentrações de ${CO}_{2}$ coletadas pelo kit da exaustão}}{127}{figure.caption.118}%
+\contentsline {figure}{\numberline {92}{\ignorespaces Comparação entre a vazão de ar novo insuflada e recomendada pela ANVISA}}{131}{figure.caption.122}%
+\contentsline {figure}{\numberline {93}{\ignorespaces Esquemático da composição do carro}}{133}{figure.caption.124}%
+\contentsline {figure}{\numberline {94}{\ignorespaces Fluxo de calor sensível médio na frota L}}{136}{figure.caption.129}%
+\contentsline {figure}{\numberline {95}{\ignorespaces Relação entre quantidade de pessoas e carga térmica sensível}}{137}{figure.caption.130}%
+\contentsline {figure}{\numberline {96}{\ignorespaces Comportamento do calor sensível em 25/10/2024}}{138}{figure.caption.131}%
+\contentsline {figure}{\numberline {97}{\ignorespaces Relação entre as pessoas presentes no carro e a carga térmica sensível em 25/10/2024}}{139}{figure.caption.132}%
+\contentsline {figure}{\numberline {98}{\ignorespaces Relação entre valores reais e ideais de temperatura e vazão de insuflamento}}{140}{figure.caption.133}%
+\contentsline {figure}{\numberline {99}{\ignorespaces Fluxo de calor latente médio na frota L}}{142}{figure.caption.134}%
+\contentsline {figure}{\numberline {100}{\ignorespaces Comportamento do calor latente em 25/10/2024}}{143}{figure.caption.135}%
+\contentsline {figure}{\numberline {101}{\ignorespaces Umidade absoluta para o sensor localizado na exaustão na data de 25/10/2024}}{144}{figure.caption.136}%
+\contentsline {figure}{\numberline {102}{\ignorespaces Relação entre valores reais e ideais de umidade e vazão de insuflamento}}{145}{figure.caption.137}%
+\contentsline {figure}{\numberline {103}{\ignorespaces Comparação das vazões mássicas ideais para a carga térmica sensível e latente}}{146}{figure.caption.138}%
+\contentsline {figure}{\numberline {104}{\ignorespaces Gráfico \textit {PMV} x \textit {PPD} - Modelo}}{147}{figure.caption.140}%
+\contentsline {figure}{\numberline {105}{\ignorespaces Gráfico $T_{exa}$ x \textit {PMV} - Modelo}}{148}{figure.caption.141}%
+\contentsline {figure}{\numberline {106}{\ignorespaces Gráfico \textit {PMV} x \textit {PPD} - kit Insuflamento}}{149}{figure.caption.142}%
+\contentsline {figure}{\numberline {107}{\ignorespaces Gráfico \textit {PMV} x $T_{insuflamento}$ - kit Insuflamento}}{149}{figure.caption.143}%
+\contentsline {figure}{\numberline {108}{\ignorespaces Gráfico $T_{insuflamento}$ x \textit {PPD} - kit Insuflamento}}{150}{figure.caption.144}%
+\contentsline {figure}{\numberline {109}{\ignorespaces Gráfico \textit {PMV} x número de pessoas - kit Insuflamento}}{150}{figure.caption.145}%
+\contentsline {figure}{\numberline {110}{\ignorespaces Gráfico \textit {PMV} x \textit {PPD} - kit Exaustão}}{151}{figure.caption.146}%
+\contentsline {figure}{\numberline {111}{\ignorespaces Gráfico \textit {PMV} x $T_{exa}$ - kit Exaustão}}{152}{figure.caption.147}%
+\contentsline {figure}{\numberline {112}{\ignorespaces Gráfico $T_{exa}$ x \textit {PPD} - kit Exaustão}}{152}{figure.caption.148}%
+\contentsline {figure}{\numberline {113}{\ignorespaces Gráfico \textit {PMV} x número de pessoas - kit Exaustão}}{153}{figure.caption.149}%
+\contentsline {figure}{\numberline {114}{\ignorespaces Gráfico \textit {PMV} x \textit {PPD} - kit Extremidade}}{153}{figure.caption.150}%
+\contentsline {figure}{\numberline {115}{\ignorespaces Gráfico \textit {PMV} x $T_{extremidade}$ - kit Extremidade}}{154}{figure.caption.151}%
+\contentsline {figure}{\numberline {116}{\ignorespaces Gráfico $T_{extremidade}$ x \textit {PPD} - kit Extremidade}}{155}{figure.caption.152}%
+\contentsline {figure}{\numberline {117}{\ignorespaces Gráfico \textit {PMV} x número de pessoas - kit Extremidade}}{155}{figure.caption.153}%
+\contentsline {figure}{\numberline {118}{\ignorespaces Distribuição de temperatura no Metrô - Concentração na porta}}{156}{figure.caption.154}%
+\contentsline {figure}{\numberline {119}{\ignorespaces Temperatura nas pessoas - Concentração na porta}}{157}{figure.caption.155}%
+\contentsline {figure}{\numberline {120}{\ignorespaces Velocidade da ar - Concentração na porta}}{157}{figure.caption.156}%
+\contentsline {figure}{\numberline {121}{\ignorespaces Distribuição de temperatura no Metrô - Pessoas espalhadas}}{158}{figure.caption.157}%
+\contentsline {figure}{\numberline {122}{\ignorespaces Temperatura nas pessoas - Pessoas espalhadas}}{158}{figure.caption.158}%
+\contentsline {figure}{\numberline {123}{\ignorespaces Velocidade da ar - Pessoas espalhadas}}{159}{figure.caption.159}%
+\addvspace {10pt}
+\addvspace {10pt}
